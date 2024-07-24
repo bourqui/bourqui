@@ -1,6 +1,7 @@
 ##  Hi, I'm Martin! 👋
 
 Most info you can find about me here: [martinbourqui.com](http://www.martinbourqui.com).
+I also have used the Github account [martin-wonderschool](https://github.com/martin-wonderschool).
 
 <!--
 **bourqui/bourqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
